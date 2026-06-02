@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Bot Builder",
+  "description": "Configure, test, and download a professional Telegram Video Bot with 24/7 run instructions, real-time logging, and interactive testing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

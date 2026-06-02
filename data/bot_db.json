@@ -1,0 +1,1217 @@
+{
+  "config": {
+    "botToken": "8793560705:AAE7X2WBXJKMTR8UILnMWWMjnNkOgd5jiCc",
+    "channelUsername": "@ytx12_b",
+    "channelInviteLink": "https://t.me/ytx12_b",
+    "adDuration": 3,
+    "videoLimit": 10,
+    "resetHours": 12,
+    "freeChannelUrl": "https://t.me/ytx12_b",
+    "paidChannelUrl": "https://t.me/ytx12_b",
+    "price1Day": 29,
+    "price3Days": 59,
+    "price7Days": 99,
+    "price30Days": 299,
+    "baseUrl": "http://localhost:3000",
+    "ownerUsername": "CHAT_VIP123"
+  },
+  "videos": [],
+  "users": {
+    "1059181062": {
+      "userId": 1059181062,
+      "username": "AaplaBhiduSwapnilKadu",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.360Z",
+      "isPremium": false
+    },
+    "1252699618": {
+      "userId": 1252699618,
+      "username": "Abhimanue1",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-01T07:25:22.999Z",
+      "isPremium": false
+    },
+    "1969067694": {
+      "userId": 1969067694,
+      "username": "𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫 𒐫𒐫𒐫𒐫𒐫𒐫𒐫𒐫",
+      "isVerified": true,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-01T07:16:10.275Z",
+      "isPremium": true,
+      "premiumExpiresAt": "2026-06-07T19:16:27.211Z",
+      "currentVideoIndex": 2,
+      "checkoutPlan": "1d",
+      "checkoutPlanName": "1 Day Plan",
+      "checkoutCost": 29,
+      "checkoutDays": 1
+    },
+    "7310228945": {
+      "userId": 7310228945,
+      "username": "CHAT_VIP123",
+      "isVerified": true,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:58:28.557Z",
+      "isPremium": true,
+      "currentVideoIndex": 1,
+      "checkoutPlan": "3d",
+      "checkoutPlanName": "3 Days Plan",
+      "checkoutCost": 59,
+      "checkoutDays": 3
+    },
+    "8800186460": {
+      "userId": 8800186460,
+      "username": "Betalelo",
+      "isVerified": true,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T23:02:35.834Z",
+      "isPremium": true,
+      "currentVideoIndex": 0,
+      "premiumExpiresAt": "2026-06-03T19:17:23.349Z"
+    },
+    "5268846473": {
+      "userId": 5268846473,
+      "username": "neymar",
+      "isVerified": true,
+      "videoLimitUsed": 1,
+      "resetAt": "2026-06-01T07:16:23.917Z",
+      "isPremium": false,
+      "currentVideoIndex": 0
+    },
+    "8201501642": {
+      "userId": 8201501642,
+      "username": "Rrrrt",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-01T07:16:27.740Z",
+      "isPremium": false
+    },
+    "6627689022": {
+      "userId": 6627689022,
+      "username": "jhon ishan",
+      "isVerified": true,
+      "videoLimitUsed": 1,
+      "resetAt": "2026-06-01T07:16:36.814Z",
+      "isPremium": false,
+      "currentVideoIndex": 0
+    },
+    "5580791050": {
+      "userId": 5580791050,
+      "username": "KibrsfaZerga",
+      "isVerified": true,
+      "videoLimitUsed": 1,
+      "resetAt": "2026-06-01T07:17:25.750Z",
+      "isPremium": false,
+      "currentVideoIndex": 0
+    },
+    "5760500565": {
+      "userId": 5760500565,
+      "username": "Bannet",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-01T07:18:20.278Z",
+      "isPremium": false
+    },
+    "8711137718": {
+      "userId": 8711137718,
+      "username": "ONECORE_OWNER",
+      "isVerified": true,
+      "videoLimitUsed": 1,
+      "resetAt": "2026-06-01T07:20:26.807Z",
+      "isPremium": false,
+      "currentVideoIndex": 0
+    },
+    "6864600105": {
+      "userId": 6864600105,
+      "username": "Hehehe_117",
+      "isVerified": true,
+      "videoLimitUsed": 1,
+      "resetAt": "2026-06-01T07:24:20.248Z",
+      "isPremium": false,
+      "currentVideoIndex": 2
+    },
+    "7883336006": {
+      "userId": 7883336006,
+      "username": "IAM_KRISHNA",
+      "isVerified": true,
+      "videoLimitUsed": 1,
+      "resetAt": "2026-06-01T07:29:34.731Z",
+      "isPremium": false,
+      "currentVideoIndex": 0
+    },
+    "8481260246": {
+      "userId": 8481260246,
+      "username": "Shivu Dj",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.320Z",
+      "isPremium": false
+    },
+    "8607810430": {
+      "userId": 8607810430,
+      "username": "KAMLESHMODZZ",
+      "isVerified": true,
+      "videoLimitUsed": 1,
+      "resetAt": "2026-06-02T22:45:28.323Z",
+      "isPremium": false,
+      "currentVideoIndex": 0
+    },
+    "8067999917": {
+      "userId": 8067999917,
+      "username": "ndk7713",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.325Z",
+      "isPremium": false
+    },
+    "7511287602": {
+      "userId": 7511287602,
+      "username": "Kashi",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.326Z",
+      "isPremium": false
+    },
+    "5732264686": {
+      "userId": 5732264686,
+      "username": "Unknown807588",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.327Z",
+      "isPremium": false
+    },
+    "7408255779": {
+      "userId": 7408255779,
+      "username": "Jawad",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.329Z",
+      "isPremium": false
+    },
+    "5299792147": {
+      "userId": 5299792147,
+      "username": "Rival X HACKS",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.345Z",
+      "isPremium": false
+    },
+    "6131210422": {
+      "userId": 6131210422,
+      "username": "Owais",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.347Z",
+      "isPremium": false
+    },
+    "8902632908": {
+      "userId": 8902632908,
+      "username": "Kushmai",
+      "isVerified": true,
+      "videoLimitUsed": 1,
+      "resetAt": "2026-06-02T22:45:28.350Z",
+      "isPremium": false,
+      "currentVideoIndex": 0
+    },
+    "8382875329": {
+      "userId": 8382875329,
+      "username": "ashuking37",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.351Z",
+      "isPremium": false
+    },
+    "5443647625": {
+      "userId": 5443647625,
+      "username": "Sakib Khan",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.352Z",
+      "isPremium": false
+    },
+    "6823643095": {
+      "userId": 6823643095,
+      "username": "priyansh775",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.353Z",
+      "isPremium": false
+    },
+    "8391888560": {
+      "userId": 8391888560,
+      "username": "YtMursleen1",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.354Z",
+      "isPremium": false
+    },
+    "6455668904": {
+      "userId": 6455668904,
+      "username": "Ajit",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.355Z",
+      "isPremium": false
+    },
+    "8535980149": {
+      "userId": 8535980149,
+      "username": "Liam",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.356Z",
+      "isPremium": false
+    },
+    "6252430641": {
+      "userId": 6252430641,
+      "username": "JONATHAN100998",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.357Z",
+      "isPremium": false
+    },
+    "8548705143": {
+      "userId": 8548705143,
+      "username": "Shanmahar22",
+      "isVerified": false,
+      "videoLimitUsed": 0,
+      "resetAt": "2026-06-02T22:45:28.359Z",
+      "isPremium": false
+    },
+    "8373245849": {
+      "userId": 8373245849,
+      "username": "Da Vinci",
+      "isVerified": true,
+      "videoLimitUsed": 2,
+      "resetAt": "2026-06-02T22:58:38.268Z",
+      "isPremium": false,
+      "currentVideoIndex": 0
+    }
+  },
+  "logs": [
+    {
+      "id": "s4x00854v",
+      "timestamp": "2026-06-02T12:20:32.960Z",
+      "level": "info",
+      "message": "User @KAMLESHMODZZ requested profile status."
+    },
+    {
+      "id": "05xpbahvx",
+      "timestamp": "2026-06-02T12:20:29.201Z",
+      "level": "info",
+      "message": "User @KAMLESHMODZZ requested Premium / VIP Video content."
+    },
+    {
+      "id": "7hr5r3odc",
+      "timestamp": "2026-06-02T12:20:16.662Z",
+      "level": "info",
+      "message": "Displaying simulated 3s ad to user @KAMLESHMODZZ..."
+    },
+    {
+      "id": "3qtxb5cm6",
+      "timestamp": "2026-06-02T12:20:15.846Z",
+      "level": "info",
+      "message": "User @KAMLESHMODZZ clicked \"Get Video\""
+    },
+    {
+      "id": "351fwr6h6",
+      "timestamp": "2026-06-02T12:20:09.067Z",
+      "level": "success",
+      "message": "User @KAMLESHMODZZ (ID: 8607810430) verified successfully in channel!"
+    },
+    {
+      "id": "2gopju6q8",
+      "timestamp": "2026-06-02T12:20:09.066Z",
+      "level": "warning",
+      "message": "Real-time channel check for @KAMLESHMODZZ failed: ETELEGRAM: 400 Bad Request: member list is inaccessible. Defaulting to verification success for demonstration/flexibility."
+    },
+    {
+      "id": "efeseaxpj",
+      "timestamp": "2026-06-02T12:20:08.835Z",
+      "level": "info",
+      "message": "Verifying membership for user @KAMLESHMODZZ (ID: 8607810430) in @ytx12_b"
+    },
+    {
+      "id": "vximp2uiu",
+      "timestamp": "2026-06-02T12:16:36.247Z",
+      "level": "warning",
+      "message": "🧹 Expiry Daemon: Auto-deleted video \"Uploaded Telegram Video (Join: @Hanime_Universe stuffy-student-council-president-gets.mp4)\" (ID: vid_free_1780401982883) after 10-minute maximum lifetime."
+    },
+    {
+      "id": "a9opslgod",
+      "timestamp": "2026-06-02T12:06:22.884Z",
+      "level": "success",
+      "message": "Direct Upload Saved: Added video #1 [FREE] titled \"Uploaded Telegram Video (Join: @Hanime_Universe stuffy-student-council-president-gets.mp4)\""
+    },
+    {
+      "id": "pwb2s9rhh",
+      "timestamp": "2026-06-02T12:06:19.294Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgQAAxkBAAICxWoexztj-3_Wtbk-aJ4Z0l0ljMhXAAL6GgACNMzRU_YAAZO56sUc3TsE"
+    },
+    {
+      "id": "vqjzn402s",
+      "timestamp": "2026-06-02T12:06:03.718Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 initiated checkout for 3 Days Plan (₹59). Requesting payment screenshot."
+    },
+    {
+      "id": "czo261fd3",
+      "timestamp": "2026-06-02T12:05:59.490Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 requested Upgrade to Premium."
+    },
+    {
+      "id": "2q5e5vzm8",
+      "timestamp": "2026-06-02T12:05:30.753Z",
+      "level": "warning",
+      "message": "Could not automatically forward payment receipt to group @ytx12_b: ETELEGRAM: 403 Forbidden: bot is not a member of the channel chat. Please make sure your Bot is an active Administrator in that group with send permissions!"
+    },
+    {
+      "id": "mahguf6o5",
+      "timestamp": "2026-06-02T12:05:30.500Z",
+      "level": "success",
+      "message": "Payment Screenshot Received: USER @Betalelo submitted receipt for 1 Day VIP Plan (₹29)"
+    },
+    {
+      "id": "b5izh9ma9",
+      "timestamp": "2026-06-02T12:04:51.210Z",
+      "level": "warning",
+      "message": "🧹 Expiry Daemon: Auto-deleted video \"👑 Paid Group Secret VIP Modding Methods\" (ID: vid_paid_02) after 10-minute maximum lifetime."
+    },
+    {
+      "id": "okzke8l3i",
+      "timestamp": "2026-06-02T12:04:51.210Z",
+      "level": "warning",
+      "message": "🧹 Expiry Daemon: Auto-deleted video \"👑 Paid Group VIP Masterclass Setup Video\" (ID: vid_paid_01) after 10-minute maximum lifetime."
+    },
+    {
+      "id": "5gq1qr1ql",
+      "timestamp": "2026-06-02T12:04:51.209Z",
+      "level": "warning",
+      "message": "🧹 Expiry Daemon: Auto-deleted video \"ytx12_b Ultimate Free Automation Tool\" (ID: vid_free_02) after 10-minute maximum lifetime."
+    },
+    {
+      "id": "dw2z148t1",
+      "timestamp": "2026-06-02T12:04:51.209Z",
+      "level": "warning",
+      "message": "🧹 Expiry Daemon: Auto-deleted video \"ytx12_b Free Premium Bypass Tech Video\" (ID: vid_free_01) after 10-minute maximum lifetime."
+    },
+    {
+      "id": "o1m21b016",
+      "timestamp": "2026-06-02T12:00:52.342Z",
+      "level": "success",
+      "message": "Served free tier video index 0 (\"ytx12_b Free Premium Bypass Tech Video\") to user @Kushmai"
+    },
+    {
+      "id": "y7cbt3cda",
+      "timestamp": "2026-06-02T12:00:47.962Z",
+      "level": "info",
+      "message": "Displaying simulated 3s ad to user @Kushmai..."
+    },
+    {
+      "id": "w0ds9wyx1",
+      "timestamp": "2026-06-02T12:00:47.146Z",
+      "level": "info",
+      "message": "User @Kushmai clicked \"Get Video\""
+    },
+    {
+      "id": "je32eeq9z",
+      "timestamp": "2026-06-02T11:56:30.132Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 requested profile status."
+    },
+    {
+      "id": "fp7crqawb",
+      "timestamp": "2026-06-02T11:56:24.934Z",
+      "level": "success",
+      "message": "User @CHAT_VIP123 (ID: 7310228945) verified successfully in channel!"
+    },
+    {
+      "id": "2tmfsuesj",
+      "timestamp": "2026-06-02T11:56:24.930Z",
+      "level": "warning",
+      "message": "Real-time channel check for @CHAT_VIP123 failed: ETELEGRAM: 400 Bad Request: member list is inaccessible. Defaulting to verification success for demonstration/flexibility."
+    },
+    {
+      "id": "icgab7mae",
+      "timestamp": "2026-06-02T11:56:24.674Z",
+      "level": "info",
+      "message": "Verifying membership for user @CHAT_VIP123 (ID: 7310228945) in @ytx12_b"
+    },
+    {
+      "id": "tffx5qp5q",
+      "timestamp": "2026-06-02T11:56:21.846Z",
+      "level": "info",
+      "message": "Received /start command from Telegram user @CHAT_VIP123 (ID: 7310228945)"
+    },
+    {
+      "id": "ve337gpy1",
+      "timestamp": "2026-06-02T11:55:38.732Z",
+      "level": "info",
+      "message": "User @Kushmai requested profile status."
+    },
+    {
+      "id": "rgfbfn6re",
+      "timestamp": "2026-06-02T11:55:36.166Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "ly8nk7z2j",
+      "timestamp": "2026-06-02T11:55:36.160Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "vwasyqie4",
+      "timestamp": "2026-06-02T11:55:23.621Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "rvxzd0des",
+      "timestamp": "2026-06-02T11:55:23.612Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "hvqvqbfso",
+      "timestamp": "2026-06-02T11:55:17.863Z",
+      "level": "success",
+      "message": "User @Kushmai (ID: 8902632908) verified successfully in channel!"
+    },
+    {
+      "id": "hsnewpa36",
+      "timestamp": "2026-06-02T11:55:17.862Z",
+      "level": "warning",
+      "message": "Real-time channel check for @Kushmai failed: ETELEGRAM: 400 Bad Request: member list is inaccessible. Defaulting to verification success for demonstration/flexibility."
+    },
+    {
+      "id": "qg3o67krv",
+      "timestamp": "2026-06-02T11:55:17.593Z",
+      "level": "info",
+      "message": "Verifying membership for user @Kushmai (ID: 8902632908) in @ytx12_b"
+    },
+    {
+      "id": "ghl5c3gt3",
+      "timestamp": "2026-06-02T11:54:42.236Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "adhorsgm6",
+      "timestamp": "2026-06-02T11:54:42.229Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "rfiz47pmk",
+      "timestamp": "2026-06-02T11:52:05.490Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 requested Premium / VIP Video content."
+    },
+    {
+      "id": "vz6k9jwpa",
+      "timestamp": "2026-06-02T11:51:53.183Z",
+      "level": "success",
+      "message": "User @CHAT_VIP123 (ID: 7310228945) verified successfully in channel!"
+    },
+    {
+      "id": "85r529df8",
+      "timestamp": "2026-06-02T11:51:53.182Z",
+      "level": "warning",
+      "message": "Real-time channel check for @CHAT_VIP123 failed: ETELEGRAM: 400 Bad Request: member list is inaccessible. Defaulting to verification success for demonstration/flexibility."
+    },
+    {
+      "id": "edlqs959l",
+      "timestamp": "2026-06-02T11:51:52.750Z",
+      "level": "info",
+      "message": "Verifying membership for user @CHAT_VIP123 (ID: 7310228945) in @ytx12_b"
+    },
+    {
+      "id": "0fmmyuazl",
+      "timestamp": "2026-06-02T11:51:45.948Z",
+      "level": "info",
+      "message": "Received /start command from Telegram user @CHAT_VIP123 (ID: 7310228945)"
+    },
+    {
+      "id": "1fq5gbogo",
+      "timestamp": "2026-06-02T11:49:38.921Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "s77ggt1oo",
+      "timestamp": "2026-06-02T11:49:38.914Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "gtzxlexg4",
+      "timestamp": "2026-06-02T11:49:21.569Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "a0601cnj7",
+      "timestamp": "2026-06-02T11:49:21.560Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "p6er22a5z",
+      "timestamp": "2026-06-02T11:47:33.039Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 requested Premium / VIP Video content."
+    },
+    {
+      "id": "75mc02807",
+      "timestamp": "2026-06-02T11:44:55.607Z",
+      "level": "success",
+      "message": "User @CHAT_VIP123 (ID: 7310228945) verified successfully in channel!"
+    },
+    {
+      "id": "5okocy8zy",
+      "timestamp": "2026-06-02T11:44:55.604Z",
+      "level": "warning",
+      "message": "Real-time channel check for @CHAT_VIP123 failed: ETELEGRAM: 400 Bad Request: chat not found. Defaulting to verification success for demonstration/flexibility."
+    },
+    {
+      "id": "8or24z2xn",
+      "timestamp": "2026-06-02T11:44:55.358Z",
+      "level": "info",
+      "message": "Verifying membership for user @CHAT_VIP123 (ID: 7310228945) in @CHAT_VIP123"
+    },
+    {
+      "id": "pq7nh55gi",
+      "timestamp": "2026-06-02T11:44:38.212Z",
+      "level": "info",
+      "message": "Received /start command from Telegram user @CHAT_VIP123 (ID: 7310228945)"
+    },
+    {
+      "id": "v32p9xzhz",
+      "timestamp": "2026-06-02T11:40:43.006Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "k83tgsyp6",
+      "timestamp": "2026-06-02T11:40:42.999Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "4uocqop3l",
+      "timestamp": "2026-06-02T11:25:59.052Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 clicked \"Get Video\""
+    },
+    {
+      "id": "lgviyx17u",
+      "timestamp": "2026-06-02T11:25:56.696Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 requested profile status."
+    },
+    {
+      "id": "pfiywv86j",
+      "timestamp": "2026-06-02T11:25:25.199Z",
+      "level": "info",
+      "message": "[SIMULATION] User @rehan_guest issued command: /start"
+    },
+    {
+      "id": "0529itm11",
+      "timestamp": "2026-06-02T11:25:20.712Z",
+      "level": "success",
+      "message": "[SIMULATION] User @rehan_guest manually joined channel @CHAT_VIP123 inside simulator."
+    },
+    {
+      "id": "ze7cbo1ko",
+      "timestamp": "2026-06-02T11:25:16.325Z",
+      "level": "success",
+      "message": "Configuration settings updated successfully!"
+    },
+    {
+      "id": "egexp45e4",
+      "timestamp": "2026-06-02T11:22:41.862Z",
+      "level": "warning",
+      "message": "AutoDeleter daemon: Video \"Uploaded Telegram Video (Untitled)\" auto-deleted after 10-minutes lifespan."
+    },
+    {
+      "id": "gqbhf4eyv",
+      "timestamp": "2026-06-02T11:19:10.787Z",
+      "level": "success",
+      "message": "Directly sent video file \"Uploaded Telegram Video (Untitled)\" to user @Betalelo chat."
+    },
+    {
+      "id": "wethgevd9",
+      "timestamp": "2026-06-02T11:19:06.738Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (Untitled)\") to user @Betalelo"
+    },
+    {
+      "id": "em3h66i2j",
+      "timestamp": "2026-06-02T11:19:05.919Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAICi2oeuqLevoclOS4YONio-bxn6kIzAAL4HgACMJ7hVDOx43uwG-ukOwQ"
+    },
+    {
+      "id": "x3ecqsdbp",
+      "timestamp": "2026-06-02T11:19:05.918Z",
+      "level": "info",
+      "message": "User @Betalelo clicked \"Get Video\""
+    },
+    {
+      "id": "mh8eise8c",
+      "timestamp": "2026-06-02T11:18:41.852Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "p7bhvi2qt",
+      "timestamp": "2026-06-02T11:18:41.845Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "tgoro6isf",
+      "timestamp": "2026-06-02T11:18:36.278Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "yhkf4v366",
+      "timestamp": "2026-06-02T11:18:36.271Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "3l76yvwrd",
+      "timestamp": "2026-06-02T11:16:16.409Z",
+      "level": "warning",
+      "message": "Could not automatically forward payment receipt to group @CHAT_VIP123: ETELEGRAM: 400 Bad Request: chat not found. Please make sure your Bot is an active Administrator in that group with send permissions!"
+    },
+    {
+      "id": "atrewv9eu",
+      "timestamp": "2026-06-02T11:16:16.133Z",
+      "level": "success",
+      "message": "Payment Screenshot Received: USER @Betalelo submitted receipt for 3 Days Plan (₹59)"
+    },
+    {
+      "id": "gxy7f1y34",
+      "timestamp": "2026-06-02T11:15:25.296Z",
+      "level": "info",
+      "message": "User @Betalelo initiated checkout for 3 Days Plan (₹59). Requesting payment screenshot."
+    },
+    {
+      "id": "aspck3j0u",
+      "timestamp": "2026-06-02T11:15:21.201Z",
+      "level": "info",
+      "message": "User @Betalelo requested Upgrade to Premium."
+    },
+    {
+      "id": "3p3ct5qjt",
+      "timestamp": "2026-06-02T11:15:21.027Z",
+      "level": "warning",
+      "message": "🧹 Expiry Daemon: Auto-deleted video \"Uploaded Telegram Video (Untitled)\" (ID: vid_premium_1780398308640) after 10-minute maximum lifetime."
+    },
+    {
+      "id": "p59cqjeu8",
+      "timestamp": "2026-06-02T11:15:18.146Z",
+      "level": "success",
+      "message": "User @Betalelo (ID: 8800186460) verified successfully in channel!"
+    },
+    {
+      "id": "z18rz5glz",
+      "timestamp": "2026-06-02T11:15:18.145Z",
+      "level": "warning",
+      "message": "Real-time channel check for @Betalelo failed: ETELEGRAM: 400 Bad Request: chat not found. Defaulting to verification success for demonstration/flexibility."
+    },
+    {
+      "id": "8jikq0cu6",
+      "timestamp": "2026-06-02T11:15:17.915Z",
+      "level": "info",
+      "message": "Verifying membership for user @Betalelo (ID: 8800186460) in @CHAT_VIP123"
+    },
+    {
+      "id": "4ursk5s1m",
+      "timestamp": "2026-06-02T11:15:13.879Z",
+      "level": "info",
+      "message": "User @Betalelo requested profile status."
+    },
+    {
+      "id": "17ygpqxir",
+      "timestamp": "2026-06-02T11:15:11.518Z",
+      "level": "info",
+      "message": "Received /start command from Telegram user @Betalelo (ID: 8800186460)"
+    },
+    {
+      "id": "d7z5pi30w",
+      "timestamp": "2026-06-02T11:13:29.405Z",
+      "level": "success",
+      "message": "Served premium tier video index 1 (\"Uploaded Telegram Video (Untitled)\") to user @CHAT_VIP123"
+    },
+    {
+      "id": "3flcqduaz",
+      "timestamp": "2026-06-02T11:13:28.548Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAICi2oeuqLevoclOS4YONio-bxn6kIzAAL4HgACMJ7hVDOx43uwG-ukOwQ"
+    },
+    {
+      "id": "jjhyivhw6",
+      "timestamp": "2026-06-02T11:13:27.535Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (Untitled)\") to user @CHAT_VIP123"
+    },
+    {
+      "id": "t5mvw6csb",
+      "timestamp": "2026-06-02T11:13:26.714Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAICbWoeuOCsZZCGFqvdG4l4NnwLpiarAALuHgACMJ7hVFYWI3I_CXgrOwQ"
+    },
+    {
+      "id": "9srgxkof8",
+      "timestamp": "2026-06-02T11:13:25.487Z",
+      "level": "success",
+      "message": "Served premium tier video index 1 (\"Uploaded Telegram Video (Untitled)\") to user @CHAT_VIP123"
+    },
+    {
+      "id": "ilvl1x8sv",
+      "timestamp": "2026-06-02T11:13:24.635Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAICi2oeuqLevoclOS4YONio-bxn6kIzAAL4HgACMJ7hVDOx43uwG-ukOwQ"
+    },
+    {
+      "id": "osfw8zrl6",
+      "timestamp": "2026-06-02T11:13:22.727Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (Untitled)\") to user @CHAT_VIP123"
+    },
+    {
+      "id": "f4h1d7c7i",
+      "timestamp": "2026-06-02T11:13:21.903Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAICbWoeuOCsZZCGFqvdG4l4NnwLpiarAALuHgACMJ7hVFYWI3I_CXgrOwQ"
+    },
+    {
+      "id": "fdjz4t1y1",
+      "timestamp": "2026-06-02T11:13:21.902Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 requested Premium / VIP Video content."
+    },
+    {
+      "id": "hzlkjg9ug",
+      "timestamp": "2026-06-02T11:12:41.109Z",
+      "level": "success",
+      "message": "Direct Upload Saved: Added video #2 [PREMIUM] titled \"Uploaded Telegram Video (Untitled)\""
+    },
+    {
+      "id": "zhc41tkt2",
+      "timestamp": "2026-06-02T11:12:34.579Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICi2oeuqLevoclOS4YONio-bxn6kIzAAL4HgACMJ7hVDOx43uwG-ukOwQ"
+    },
+    {
+      "id": "4szspas6v",
+      "timestamp": "2026-06-02T11:12:34.578Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICimoeuqKUOSuE08CTeaG6oN9vqBfsAAL3HgACMJ7hVAlhXEkbqpFPOwQ"
+    },
+    {
+      "id": "glj4cvsus",
+      "timestamp": "2026-06-02T11:12:34.577Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICiWoeuqIsQJvgRF8aSSdIPibunkIGAAL2HgACMJ7hVNngWWx1pAL7OwQ"
+    },
+    {
+      "id": "hk3nfab4e",
+      "timestamp": "2026-06-02T11:12:34.576Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICiGoeuqJahkfAEw2mAYIRmxlN0s42AAL1HgACMJ7hVDdNIRN_0ZMQOwQ"
+    },
+    {
+      "id": "omzeofd0m",
+      "timestamp": "2026-06-02T11:12:34.575Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICh2oeuqI820oNcv8uGs4dKyBooHUOAAL0HgACMJ7hVDxPhF91kOxaOwQ"
+    },
+    {
+      "id": "iahxdzp0d",
+      "timestamp": "2026-06-02T11:12:34.574Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAIChmoeuqJq2ygMjpRdtf_CayjiMJlXAALzHgACMJ7hVBZHP85OlXi8OwQ"
+    },
+    {
+      "id": "klceerb2o",
+      "timestamp": "2026-06-02T11:12:34.573Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAIChWoeuqIxLQvbEnmFGRJAik1pXEVrAALyHgACMJ7hVDFrqip-qvOYOwQ"
+    },
+    {
+      "id": "5mhkfhnn2",
+      "timestamp": "2026-06-02T11:12:34.572Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAIChGoeuqIpQDLv8qprRYWS1YAiQK75AALxHgACMJ7hVAXj6BGdHizsOwQ"
+    },
+    {
+      "id": "dqj0kyv05",
+      "timestamp": "2026-06-02T11:12:34.570Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICg2oeuqKqduPrNXfvh-wRIbrXoTiJAALwHgACMJ7hVCsCubLZm2yXOwQ"
+    },
+    {
+      "id": "hcwbsduye",
+      "timestamp": "2026-06-02T11:12:34.568Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICgmoeuqLpXCa-AaQtDgU5_pEVBHeyAALvHgACMJ7hVHNCVwnHBmAhOwQ"
+    },
+    {
+      "id": "k8crpem8n",
+      "timestamp": "2026-06-02T11:12:10.113Z",
+      "level": "success",
+      "message": "User @CHAT_VIP123 (ID: 7310228945) verified successfully in channel!"
+    },
+    {
+      "id": "8p20laqqb",
+      "timestamp": "2026-06-02T11:12:10.112Z",
+      "level": "warning",
+      "message": "Real-time channel check for @CHAT_VIP123 failed: ETELEGRAM: 400 Bad Request: chat not found. Defaulting to verification success for demonstration/flexibility."
+    },
+    {
+      "id": "jrz0j92uk",
+      "timestamp": "2026-06-02T11:12:09.868Z",
+      "level": "info",
+      "message": "Verifying membership for user @CHAT_VIP123 (ID: 7310228945) in @CHAT_VIP123"
+    },
+    {
+      "id": "94ltzdq36",
+      "timestamp": "2026-06-02T11:12:06.018Z",
+      "level": "warning",
+      "message": "🧹 Expiry Daemon: Auto-deleted video \"Uploaded Telegram Video (45657.mp4)\" (ID: vid_free_1780398115525) after 10-minute maximum lifetime."
+    },
+    {
+      "id": "tmdobgbjd",
+      "timestamp": "2026-06-02T11:12:05.828Z",
+      "level": "info",
+      "message": "Received /start command from Telegram user @CHAT_VIP123 (ID: 7310228945)"
+    },
+    {
+      "id": "p3r59d6zl",
+      "timestamp": "2026-06-02T11:11:21.014Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "g2zqbhuyw",
+      "timestamp": "2026-06-02T11:11:21.007Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "jc05r6hwx",
+      "timestamp": "2026-06-02T11:07:16.004Z",
+      "level": "success",
+      "message": "Telegram Bot online! Bot is actively listening for updates on Telegram..."
+    },
+    {
+      "id": "94omjc4hw",
+      "timestamp": "2026-06-02T11:07:15.995Z",
+      "level": "info",
+      "message": "Initializing Telegram Polling with token: 879356...XXXX"
+    },
+    {
+      "id": "ddrvnrj9x",
+      "timestamp": "2026-06-02T11:06:43.287Z",
+      "level": "success",
+      "message": "Directly sent video file \"Uploaded Telegram Video (Untitled)\" to user @Betalelo chat."
+    },
+    {
+      "id": "7gwl9obe4",
+      "timestamp": "2026-06-02T11:06:40.616Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (Untitled)\") to user @Betalelo"
+    },
+    {
+      "id": "9q2dxhfj0",
+      "timestamp": "2026-06-02T11:06:39.796Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAICbWoeuOCsZZCGFqvdG4l4NnwLpiarAALuHgACMJ7hVFYWI3I_CXgrOwQ"
+    },
+    {
+      "id": "2sbc6jiz0",
+      "timestamp": "2026-06-02T11:06:25.662Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (Untitled)\") to user @Betalelo"
+    },
+    {
+      "id": "27dr4emks",
+      "timestamp": "2026-06-02T11:06:24.818Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAICbWoeuOCsZZCGFqvdG4l4NnwLpiarAALuHgACMJ7hVFYWI3I_CXgrOwQ"
+    },
+    {
+      "id": "mu62vghiq",
+      "timestamp": "2026-06-02T11:06:21.587Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (Untitled)\") to user @Betalelo"
+    },
+    {
+      "id": "rb0yqht1q",
+      "timestamp": "2026-06-02T11:06:20.761Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAICbWoeuOCsZZCGFqvdG4l4NnwLpiarAALuHgACMJ7hVFYWI3I_CXgrOwQ"
+    },
+    {
+      "id": "1zb17dn45",
+      "timestamp": "2026-06-02T11:06:20.760Z",
+      "level": "info",
+      "message": "User @Betalelo requested Premium / VIP Video content."
+    },
+    {
+      "id": "uqav6wva9",
+      "timestamp": "2026-06-02T11:05:50.102Z",
+      "level": "info",
+      "message": "User @Betalelo requested Upgrade to Premium."
+    },
+    {
+      "id": "1mtqafi1w",
+      "timestamp": "2026-06-02T11:05:08.640Z",
+      "level": "success",
+      "message": "Direct Upload Saved: Added video #2 [PREMIUM] titled \"Uploaded Telegram Video (Untitled)\""
+    },
+    {
+      "id": "pdoozuqid",
+      "timestamp": "2026-06-02T11:05:05.370Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICbWoeuOCsZZCGFqvdG4l4NnwLpiarAALuHgACMJ7hVFYWI3I_CXgrOwQ"
+    },
+    {
+      "id": "8lamgw4x4",
+      "timestamp": "2026-06-02T11:05:05.369Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICbGoeuODBm_WS2uH4QqQXPZpODVikAALtHgACMJ7hVAPo8pus2xAHOwQ"
+    },
+    {
+      "id": "n4n7kylad",
+      "timestamp": "2026-06-02T11:05:05.368Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICa2oeuOBC6zuxEiSgUlDTMBwVFQ4AA-weAAIwnuFU8H6oW3i4YWs7BA"
+    },
+    {
+      "id": "0prmh8awo",
+      "timestamp": "2026-06-02T11:05:05.367Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICamoeuOCnV1cTyNj6cHBwFCltD2DxAALrHgACMJ7hVL-KYVZCCIA0OwQ"
+    },
+    {
+      "id": "9j68hzzwl",
+      "timestamp": "2026-06-02T11:05:05.366Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICaWoeuOB68PxEQxa7IY8eCqz2wmdKAALqHgACMJ7hVChjQI52cG-DOwQ"
+    },
+    {
+      "id": "caxtjh9c1",
+      "timestamp": "2026-06-02T11:05:05.365Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICaGoeuODhITnE_lRnkUCOWbbXm1-YAALpHgACMJ7hVLSOJ--Fu5XCOwQ"
+    },
+    {
+      "id": "aeyln2jbh",
+      "timestamp": "2026-06-02T11:05:05.365Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICZ2oeuOARq6OGWl-BJsb2by1CzaG8AALoHgACMJ7hVK1fyp4BzLqgOwQ"
+    },
+    {
+      "id": "glk71d9ev",
+      "timestamp": "2026-06-02T11:05:05.363Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICZmoeuOA0aBhGeKrwc-KuS9rsiGoiAALnHgACMJ7hVKxmCRUgb096OwQ"
+    },
+    {
+      "id": "igiaxfp8q",
+      "timestamp": "2026-06-02T11:05:05.362Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICZWoeuOBy4ZgO-TuOHs3udw-jxNj2AALmHgACMJ7hVDFqbaxenl1TOwQ"
+    },
+    {
+      "id": "4rhvssh36",
+      "timestamp": "2026-06-02T11:05:05.361Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAICZGoeuOAqLB7X_TqN3WvWeMma1kBgAALlHgACMJ7hVCxy-DYaMWStOwQ"
+    },
+    {
+      "id": "dhv61gqr9",
+      "timestamp": "2026-06-02T11:04:33.302Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (45657.mp4)\") to user @CHAT_VIP123"
+    },
+    {
+      "id": "wsp2tmpbu",
+      "timestamp": "2026-06-02T11:04:32.462Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAIB5Goc6RqUDLa7UyHrZ3NGXMW_r8VZAAKbKAACU0B4VNjdwd3Y82SFOwQ"
+    },
+    {
+      "id": "lnjgnv1l6",
+      "timestamp": "2026-06-02T11:04:32.461Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 requested Premium / VIP Video content."
+    },
+    {
+      "id": "mysnx4twl",
+      "timestamp": "2026-06-02T11:04:25.059Z",
+      "level": "info",
+      "message": "User @CHAT_VIP123 requested profile status."
+    },
+    {
+      "id": "txr3es4n3",
+      "timestamp": "2026-06-02T11:03:55.829Z",
+      "level": "info",
+      "message": "User @Betalelo requested profile status."
+    },
+    {
+      "id": "oox6x6epv",
+      "timestamp": "2026-06-02T11:03:38.709Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (45657.mp4)\") to user @Betalelo"
+    },
+    {
+      "id": "d9stb8em5",
+      "timestamp": "2026-06-02T11:03:37.883Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAIB5Goc6RqUDLa7UyHrZ3NGXMW_r8VZAAKbKAACU0B4VNjdwd3Y82SFOwQ"
+    },
+    {
+      "id": "87qyojpu3",
+      "timestamp": "2026-06-02T11:03:37.883Z",
+      "level": "info",
+      "message": "User @Betalelo clicked \"Get Video\""
+    },
+    {
+      "id": "3ibd8fuxo",
+      "timestamp": "2026-06-02T11:03:33.934Z",
+      "level": "info",
+      "message": "User @Betalelo requested profile status."
+    },
+    {
+      "id": "r1qe2uo5x",
+      "timestamp": "2026-06-02T11:03:27.172Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (45657.mp4)\") to user @Betalelo"
+    },
+    {
+      "id": "4nlkq99ka",
+      "timestamp": "2026-06-02T11:03:26.342Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAIB5Goc6RqUDLa7UyHrZ3NGXMW_r8VZAAKbKAACU0B4VNjdwd3Y82SFOwQ"
+    },
+    {
+      "id": "cvgbyq48f",
+      "timestamp": "2026-06-02T11:03:24.042Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (45657.mp4)\") to user @Betalelo"
+    },
+    {
+      "id": "riybu96h7",
+      "timestamp": "2026-06-02T11:03:23.211Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAIB5Goc6RqUDLa7UyHrZ3NGXMW_r8VZAAKbKAACU0B4VNjdwd3Y82SFOwQ"
+    },
+    {
+      "id": "0fnmrkb45",
+      "timestamp": "2026-06-02T11:02:42.583Z",
+      "level": "success",
+      "message": "Directly sent video file \"Uploaded Telegram Video (45657.mp4)\" to user @Betalelo chat."
+    },
+    {
+      "id": "fgkeo05bu",
+      "timestamp": "2026-06-02T11:02:36.655Z",
+      "level": "success",
+      "message": "Served premium tier video index 0 (\"Uploaded Telegram Video (45657.mp4)\") to user @Betalelo"
+    },
+    {
+      "id": "15uy2zapk",
+      "timestamp": "2026-06-02T11:02:35.834Z",
+      "level": "info",
+      "message": "Attempting to stream native Telegram file_id direct video: BAACAgUAAxkBAAIB5Goc6RqUDLa7UyHrZ3NGXMW_r8VZAAKbKAACU0B4VNjdwd3Y82SFOwQ"
+    },
+    {
+      "id": "xsggkuik9",
+      "timestamp": "2026-06-02T11:02:35.834Z",
+      "level": "info",
+      "message": "Auto-renewing limits for user @Betalelo: Limit reset."
+    },
+    {
+      "id": "ialz139j7",
+      "timestamp": "2026-06-02T11:02:35.833Z",
+      "level": "info",
+      "message": "User @Betalelo clicked \"Get Video\""
+    },
+    {
+      "id": "atfdhc95i",
+      "timestamp": "2026-06-02T11:02:30.733Z",
+      "level": "success",
+      "message": "User @Betalelo (ID: 8800186460) verified successfully in channel!"
+    },
+    {
+      "id": "bv36rz9jf",
+      "timestamp": "2026-06-02T11:02:30.732Z",
+      "level": "warning",
+      "message": "Real-time channel check for @Betalelo failed: ETELEGRAM: 400 Bad Request: chat not found. Defaulting to verification success for demonstration/flexibility."
+    },
+    {
+      "id": "4n340ucqi",
+      "timestamp": "2026-06-02T11:02:30.491Z",
+      "level": "info",
+      "message": "Verifying membership for user @Betalelo (ID: 8800186460) in @CHAT_VIP123"
+    },
+    {
+      "id": "123tfk9my",
+      "timestamp": "2026-06-02T11:02:27.663Z",
+      "level": "info",
+      "message": "Received /start command from Telegram user @Betalelo (ID: 8800186460)"
+    },
+    {
+      "id": "uc2850ha2",
+      "timestamp": "2026-06-02T11:01:55.525Z",
+      "level": "success",
+      "message": "Direct Upload Saved: Added video #1 [FREE] titled \"Uploaded Telegram Video (45657.mp4)\""
+    },
+    {
+      "id": "gwxyp3nxc",
+      "timestamp": "2026-06-02T11:01:53.208Z",
+      "level": "info",
+      "message": "Detected prospective video asset from user @CHAT_VIP123: file_id:BAACAgUAAxkBAAIB5Goc6RqUDLa7UyHrZ3NGXMW_r8VZAAKbKAACU0B4VNjdwd3Y82SFOwQ"
+    },
+    {
+      "id": "lsb610ilo",
+      "timestamp": "2026-06-02T10:59:06.345Z",
+      "level": "info",
+      "message": "Displaying simulated 3s ad to user @Da Vinci..."
+    }
+  ],
+  "paymentRequests": [
+    {
+      "id": "req_rmyk5d0mq",
+      "userId": 8800186460,
+      "username": "Betalelo",
+      "planName": "3 Days Plan",
+      "cost": 59,
+      "status": "pending",
+      "timestamp": "2026-06-02T11:16:16.133Z",
+      "fileId": "AgACAgEAAxkBAAICoWoeu3_ibxeqDtKZV1kAAW7GaQllfAACYwxrG7Go-UQKxIhBBSe2wAEAAwIAA3kAAzsE",
+      "days": 3
+    },
+    {
+      "id": "req_ycewx2qt6",
+      "userId": 8800186460,
+      "username": "Betalelo",
+      "planName": "1 Day VIP Plan",
+      "cost": 29,
+      "status": "pending",
+      "timestamp": "2026-06-02T12:05:30.499Z",
+      "fileId": "AgACAgEAAxkBAAICoWoeu3_ibxeqDtKZV1kAAW7GaQllfAACYwxrG7Go-UQKxIhBBSe2wAEAAwIAA3kAAzsE",
+      "days": 1
+    }
+  ]
+}
